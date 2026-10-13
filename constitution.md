@@ -26,11 +26,9 @@ according to their respective populations. The actual census must be conducted
 within three years after the first meeting of Congress, and every ten years
 thereafter, as directed by law.  The number of Representatives cannot exceed
 one for every thirty thousand people, but each state must have at least one
-Representative.  Until the first census is taken, the states will be entitled
-to the following number of representatives: New Hampshire (3), Massachusetts
-(8), Rhode Island (1), Connecticut (5), New York (6), New Jersey (4),
-Pennsylvania (8), Delaware (1), Maryland (6), Virginia (10), North Carolina
-(5), South Carolina (5), and Georgia (3).
+Representative.  Until the first official census is taken, the initial
+allocation of seats for each participating State shall be determined by the
+transition authority based on current population data.
 
 When a seat in the House of Representatives  becomes vacant, the executive
 authority of that state will issue an election order to fill the vacancy.
