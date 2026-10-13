@@ -395,9 +395,8 @@ shall be made, under their authority;—to all cases affecting ambassadors, othe
 public ministers, and consuls;—to all cases of admiralty and maritime
 jurisdiction;—to controversies to which the European Union is a party;—to
 controversies between two or more states;—between a state and citizens of
-another state;—between citizens of different states;—between citizens of the
-same state claiming lands under grants of different states, and between a
-state, or the citizens thereof, and foreign states, citizens, or subjects.
+another state;—between citizens of different states, and between a state, or the
+citizens thereof, and foreign states, citizens, or subjects.
 
 In all cases affecting ambassadors, other public ministers, and consuls, and
 those in which a state is a party, the Supreme Court will have original
