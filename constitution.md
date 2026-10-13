@@ -454,11 +454,12 @@ of the European Union or of any particular state.
 
 ## Section 4
 
-The European Union will guarantee to every state in this Union a republican form
-of government, and will protect each of them against invasion. Upon the
-application of the state legislature, or of the executive (when the legislature
-cannot be convened), the European Union will also protect the state against
-domestic violence.
+The European Union will guarantee to every state in this Union a democratic
+form of government, rooted in the rule of law, respect for human rights, and
+the sovereignty of the citizens, and will protect each of them against
+invasion.  Upon the application of the state legislature, or of the executive
+(when the legislature cannot be convened), the European Union will also protect
+the state against domestic violence.
 
 # Article V
 
