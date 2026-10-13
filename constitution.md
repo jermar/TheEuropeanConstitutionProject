@@ -475,7 +475,7 @@ equal vote in the Senate.
 
 All debts contracted and financial engagements entered into before the adoption
 of this Constitution will be just as valid against the European Union under this
-Constitution as they were under the Confederation.
+Constitution as they were under the Treaty of Lisbon.
 
 This Constitution, the laws of the European Union passed in pursuance of it, and
 all treaties made, or which shall be made, under the authority of the European
