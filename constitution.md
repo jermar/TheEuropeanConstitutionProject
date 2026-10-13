@@ -169,14 +169,14 @@ The Congress will have the power:
 
 * To regulate commerce with foreign nations, and among the several states;
 
-* To establish a uniform rule of naturalization, and uniform laws on the subject
-  of bankruptcies throughout the European Union;
+* To establish uniform rules for naturalization, and uniform laws governing
+  bankruptcies throughout the European Union;
 
-* To coin money, regulate its value and the value of foreign coin, and fix the
-  standard of weights and measures;
+* To regulate the national currency and digital financial systems, govern the
+  exchange of foreign currencies, and fix the standard of weights and measures;
 
-* To provide for the punishment of counterfeiting the securities and current
-  coin of the European Union;
+* To provide for the punishment of counterfeiting the national currency,
+  financial instruments, and digital assets of the European Union;
 
 * To establish post offices and post roads;
 
@@ -243,9 +243,11 @@ The Congress will have the power:
 
 ## Section 10
 
-* No state may enter into any treaty, alliance, or confederation; coin money;
-  emit bills of credit; make anything but gold and silver coin a tender in
-  payment of debts; pass any bill of attainder, ex post facto law, or law
+* No state may enter into any treaty, alliance, or confederation; issue any new
+  or unauthorized sovereign currency outside of its pre-existing national
+  currency at the time of this Constitution's adoption; declare any currency as
+  legal tender for the payment of debts except as authorized by federal law;
+  pass any bill of attainder, ex post facto law, or law
   impairing the obligation of contracts; or grant any title of nobility.
 
 * No state may, without the consent of Congress, lay any imposts or duties on
