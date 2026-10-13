@@ -191,8 +191,7 @@ The Congress will have the power:
 * To define and punish piracies and felonies committed on the high seas, and
   offenses against the law of nations;
 
-* To declare war, grant letters of marque and reprisal, and make rules
-  concerning captures on land and water;
+* To declare war, and make rules concerning captures on land and water;
 
 * To raise and support armies, but no appropriation of money for that use may be
   for a longer term than two years;
@@ -246,11 +245,10 @@ The Congress will have the power:
 
 ## Section 10
 
-* No state may enter into any treaty, alliance, or confederation; grant letters
-  of marque and reprisal; coin money; emit bills of credit; make anything but
-  gold and silver coin a tender in payment of debts; pass any bill of attainder,
-  ex post facto law, or law impairing the obligation of contracts; or grant any
-  title of nobility.
+* No state may enter into any treaty, alliance, or confederation; coin money;
+  emit bills of credit; make anything but gold and silver coin a tender in
+  payment of debts; pass any bill of attainder, ex post facto law, or law
+  impairing the obligation of contracts; or grant any title of nobility.
 
 * No state may, without the consent of Congress, lay any imposts or duties on
   imports or exports, except what may be absolutely necessary for executing its
