@@ -22,20 +22,17 @@ twenty five Years, and been seven Years a Citizen of the United States, and who
 shall not, when elected, be an Inhabitant of that State in which he shall be
 chosen.
 
-Representatives and direct Taxes shall be apportioned among the several States
-which may be included within this Union, according to their respective Numbers,
-which shall be determined by adding to the whole Number of free Persons,
-including those bound to Service for a Term of Years, and excluding Indians not
-taxed, three fifths of all other Persons. The actual Enumeration shall be made
-within three Years after the first Meeting of the Congress of the United
-States, and within every subsequent Term of ten Years, in such Manner as they
-shall by Law direct. The Number of Representatives shall not exceed one for
-every thirty Thousand, but each State shall have at Least one Representative;
-and until such enumeration shall be made, the State of New Hampshire shall be
-entitled to chuse three, Massachusetts eight, Rhode-Island and Providence
-Plantations one, Connecticut five, New-York six, New Jersey four, Pennsylvania
-eight, Delaware one, Maryland six, Virginia ten, North Carolina five, South
-Carolina five, and Georgia three.
+Representatives shall be apportioned among the several States which may be
+included within this Union, according to their respective Populations. The
+actual Enumeration shall be made within three Years after the first Meeting of
+the Congress of the United States, and within every subsequent Term of ten
+Years, in such Manner as they shall by Law direct. The Number of
+Representatives shall not exceed one for every thirty Thousand, but each State
+shall have at Least one Representative; and until such enumeration shall be
+made, the State of New Hampshire shall be entitled to chuse three,
+Massachusetts eight, Rhode-Island and Providence Plantations one, Connecticut
+five, New-York six, New Jersey four, Pennsylvania eight, Delaware one, Maryland
+six, Virginia ten, North Carolina five, South Carolina five, and Georgia three.
 
 When vacancies happen in the Representation from any State, the Executive
 Authority thereof shall issue Writs of Election to fill such Vacancies.
@@ -165,8 +162,7 @@ uniform throughout the United States;
 
 To borrow Money on the credit of the United States;
 
-To regulate Commerce with foreign Nations, and among the several States, and
-with the Indian Tribes;
+To regulate Commerce with foreign Nations, and among the several States;
 
 To establish an uniform Rule of Naturalization, and uniform Laws on the subject
 of Bankruptcies throughout the United States;
@@ -221,18 +217,10 @@ Officer thereof.
 
 ## Section 9
 
-The Migration or Importation of such Persons as any of the States now existing
-shall think proper to admit, shall not be prohibited by the Congress prior to
-the Year one thousand eight hundred and eight, but a Tax or duty may be imposed
-on such Importation, not exceeding ten dollars for each Person.
-
 The Privilege of the Writ of Habeas Corpus shall not be suspended, unless when
 in Cases of Rebellion or Invasion the public Safety may require it.
 
 No Bill of Attainder or ex post facto Law shall be passed.
-
-No Capitation, or other direct, Tax shall be laid, unless in Proportion to the
-Census or enumeration herein before directed to be taken.
 
 No Tax or Duty shall be laid on Articles exported from any State.
 
@@ -440,11 +428,6 @@ flee from Justice, and be found in another State, shall on Demand of the
 executive Authority of the State from which he fled, be delivered up, to be
 removed to the State having Jurisdiction of the Crime.
 
-No Person held to Service or Labour in one State, under the Laws thereof,
-escaping into another, shall, in Consequence of any Law or Regulation therein,
-be discharged from such Service or Labour, but shall be delivered up on Claim
-of the Party to whom such Service or Labour may be due.
-
 ## Section 3
 
 New States may be admitted by the Congress into this Union; but no new State
@@ -474,10 +457,8 @@ proposing Amendments, which, in either Case, shall be valid to all Intents and
 Purposes, as Part of this Constitution, when ratified by the Legislatures of
 three fourths of the several States, or by Conventions in three fourths
 thereof, as the one or the other Mode of Ratification may be proposed by the
-Congress; Provided that no Amendment which may be made prior to the Year One
-thousand eight hundred and eight shall in any Manner affect the first and
-fourth Clauses in the Ninth Section of the first Article; and that no State,
-without its Consent, shall be deprived of its equal Suffrage in the Senate.
+Congress; Provided that no State, without its Consent, shall be deprived of its
+equal Suffrage in the Senate.
 
 # Article VI
 
