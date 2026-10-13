@@ -1,14 +1,14 @@
-We, the People of the United States, in order to form a more perfect union,
+We, the People of the European Union, in order to form a more perfect union,
 establish justice, ensure domestic peace, provide for the common defense,
 promote the general welfare, and secure the blessings of liberty for ourselves
-and our descendants, do ordain and establish this Constitution for the United
-States of America.
+and our descendants, do ordain and establish this Constitution for the European
+Union.
 
 # Article I
 ## Section 1
 
 All legislative powers granted in this Constitution belong to a Congress of the
-United States, which consists of a Senate and a House of Representatives.
+European Union, which consists of a Senate and a House of Representatives.
 
 # Section 2
 
@@ -18,7 +18,7 @@ qualifications required to vote for the largest branch of their own state
 legislature.
 
 No person can be a Representative who is under twenty-five years old, has not
-been a citizen of the United States for at least seven years, and does not live
+been a citizen of the European Union for at least seven years, and does not live
 in the state they represent at the time of their election.
 
 Representatives will be divided among the states included in this Union
@@ -38,7 +38,7 @@ holds the sole power to impeach federal officials.
 
 ## Section 3
 
-The Senate of the United States will be composed of two Senators from each
+The Senate of the European Union will be composed of two Senators from each
 state, chosen by their respective state legislatures for a term of six years.
 Each Senator will have one vote.
 
@@ -52,25 +52,25 @@ the executive of that state may make temporary appointments until the next
 meeting of the state legislature, which will then fill the vacancies.
 
 No person can be a Senator who is under thirty years old, has not been a
-citizen of the United States for at least nine years, and does not live in the
+citizen of the European Union for at least nine years, and does not live in the
 state they represent at the time of their election.
 
-The Vice President of the United States will serve as the President of the
+The Vice President of the European Union will serve as the President of the
 Senate, but will have no vote unless the Senators are equally divided.
 
 The Senate will choose their other officers, as well as a President pro tempore
 to lead in the absence of the Vice President or when the Vice President
-exercises the office of President of the United States.
+exercises the office of President of the European Union.
 
 The Senate holds the sole power to try all impeachments. When sitting for that
 purpose, they must take a solemn oath or affirmation. When the President of the
-United States is tried, the Chief Justice of the Supreme Court will preside. No
+European Union is tried, the Chief Justice of the Supreme Court will preside. No
 person can be convicted without the agreement of two-thirds of the members
 present.
 
 Judgment in cases of impeachment will extend no further than removal from
 office and disqualification to hold or enjoy any office of honor, trust, or
-profit under the United States. However, the convicted party will still be
+profit under the European Union. However, the convicted party will still be
 liable and subject to indictment, trial, judgment, and punishment according to
 law.
 
@@ -109,17 +109,17 @@ than the one where the two houses are currently sitting.
 ## Section 6
 
 Senators and Representatives will receive a compensation for their services,
-which will be determined by law and paid out of the treasury of the United
-States. In all cases except treason, felony, and breach of the peace, they will
+which will be determined by law and paid out of the treasury of the European
+Union. In all cases except treason, felony, and breach of the peace, they will
 be privileged from arrest during their attendance at the sessions of their
 respective houses, as well as while traveling to and returning from them.
 Furthermore, they cannot be questioned in any other place for any speech or
 debate delivered in either house.
 
 No Senator or Representative may be appointed, during the time for which they
-were elected, to any civil office under the authority of the United States that
+were elected, to any civil office under the authority of the European Union that
 was created, or had its salary increased, during their term. Additionally, no
-person holding any office under the United States can be a member of either
+person holding any office under the European Union can be a member of either
 house while they continue to hold that office.
 
 ## Section 7
@@ -129,7 +129,7 @@ however, the Senate may propose or agree to amendments, just as with other
 bills.
 
 Every bill that passes the House of Representatives and the Senate must be
-presented to the President of the United States before it can become a law. If
+presented to the President of the European Union before it can become a law. If
 the President approves the bill, they will sign it. If not, the President will
 return it with their objections to the house in which it originated. That house
 will enter the objections in full into their journal and proceed to reconsider
@@ -151,7 +151,7 @@ the bill.
 
 Every order, resolution, or vote that requires the agreement of both the Senate
 and the House of Representatives (except on a question of adjournment) must be
-presented to the President of the United States. Before it can take effect, it
+presented to the President of the European Union. Before it can take effect, it
 must be approved by the President, or, if disapproved, must be passed again by
 a two-thirds majority of both the Senate and the House of Representatives,
 following the same rules and limitations established for a bill.
@@ -161,22 +161,22 @@ following the same rules and limitations established for a bill.
 The Congress will have the power:
 
 * To lay and collect taxes, duties, imposts, and excises, in order to pay the
-  debts and provide for the common defense and general welfare of the United
-  States; however, all duties, imposts, and excises must be uniform throughout
-  the United States;
+  debts and provide for the common defense and general welfare of the European
+  Union; however, all duties, imposts, and excises must be uniform throughout
+  the European Union;
 
-* To borrow money on the credit of the United States;
+* To borrow money on the credit of the European Union;
 
 * To regulate commerce with foreign nations, and among the several states;
 
 * To establish a uniform rule of naturalization, and uniform laws on the subject
-  of bankruptcies throughout the United States;
+  of bankruptcies throughout the European Union;
 
 * To coin money, regulate its value and the value of foreign coin, and fix the
   standard of weights and measures;
 
 * To provide for the punishment of counterfeiting the securities and current
-  coin of the United States;
+  coin of the European Union;
 
 * To establish post offices and post roads;
 
@@ -202,22 +202,22 @@ The Congress will have the power:
   suppress insurrections, and repel invasions;
 
 * To provide for organizing, arming, and disciplining the militia, and for
-  governing such part of them as may be employed in the service of the United
-  States, reserving to the states respectively the appointment of the officers
+  governing such part of them as may be employed in the service of the European
+  Union, reserving to the states respectively the appointment of the officers
   and the authority of training the militia according to the discipline
   prescribed by Congress;
 
 * To exercise exclusive legislation in all cases whatsoever over the district
   (not exceeding ten miles square) that may, by the cession of particular
   states and the acceptance of Congress, become the seat of the government of
-  the United States, and to exercise similar authority over all places purchased
+  the European Union, and to exercise similar authority over all places purchased
   with the consent of the legislature of the state in which they are located,
   for the erection of forts, magazines, arsenals, dockyards, and other necessary
   buildings; and
 
 * To make all laws which are necessary and proper for carrying into execution
   the foregoing powers, and all other powers vested by this Constitution in the
-  government of the United States, or in any department or officer thereof.
+  government of the European Union, or in any department or officer thereof.
 
 ## Section 9
 
@@ -236,8 +236,8 @@ The Congress will have the power:
   made by law; a regular statement and account of the receipts and expenditures
   of all public money must be published from time to time.
 
-* No title of nobility will be granted by the United States. Additionally, no
-  person holding any office of profit or trust under the United States may,
+* No title of nobility will be granted by the European Union. Additionally, no
+  person holding any office of profit or trust under the European Union may,
   without the consent of Congress, accept any present, emolument, office, or
   title of any kind from any king, prince, or foreign state.
 
@@ -251,8 +251,8 @@ The Congress will have the power:
 * No state may, without the consent of Congress, lay any imposts or duties on
   imports or exports, except what may be absolutely necessary for executing its
   inspection laws. The net produce of all duties and imposts laid by any state
-  on imports or exports will be for the use of the treasury of the United
-  States; all such laws will be subject to the revision and control of Congress.
+  on imports or exports will be for the use of the treasury of the European
+  Union; all such laws will be subject to the revision and control of Congress.
 
 * No state may, without the consent of Congress, lay any duty of tonnage; keep
   troops or ships of war in time of peace; enter into any agreement or compact
@@ -262,21 +262,21 @@ The Congress will have the power:
 # Article II
 ## Section 1
 
-The executive power will be vested in a President of the United States of
-America. The President will hold office for a term of four years and, together
-with the Vice President chosen for the same term, be elected as follows:
+The executive power will be vested in a President of the European Union. The
+President will hold office for a term of four years and, together with the Vice
+President chosen for the same term, be elected as follows:
 
 Each state will appoint, in the manner directed by its own legislature, a
 number of electors equal to the total number of Senators and Representatives to
 which the state is entitled in Congress. However, no Senator, Representative,
-or person holding an office of trust or profit under the United States can be
+or person holding an office of trust or profit under the European Union can be
 appointed as an elector.
 
 The electors will meet in their respective states and vote by ballot for two
 persons, of whom at least one cannot be an inhabitant of the same state as
 themselves. They will make a list of all the persons voted for and the number
 of votes for each; they must sign, certify, and transmit this list sealed to
-the seat of the government of the United States, directed to the President of
+the seat of the government of the European Union, directed to the President of
 the Senate.
 
 * The President of the Senate will, in the presence of the Senate and House of
@@ -302,13 +302,13 @@ the Senate.
   Vice President from them by ballot.
 
 Congress may determine the time of choosing the electors and the day on which
-they will cast their votes; this day must be the same throughout the United
-States.
+they will cast their votes; this day must be the same throughout the European
+Union.
 
-No person except a natural-born citizen, or a citizen of the United States at
+No person except a natural-born citizen, or a citizen of the European Union at
 the time of the adoption of this Constitution, will be eligible for the office
 of President. Furthermore, no person will be eligible for that office who is
-under thirty-five years old and has not been a resident within the United States
+under thirty-five years old and has not been a resident within the European Union
 for fourteen years.
 
 In case of the removal of the President from office, or of their death,
@@ -322,32 +322,32 @@ is elected.
 The President will, at stated times, receive a compensation for their services,
 which will neither be increased nor diminished during the period for which they
 were elected. The President will not receive any other emolument from the
-United States, or any individual state, within that period.
+European Union, or any individual state, within that period.
 
 Before entering onto the execution of the office, the President must take the
 following oath or affirmation:
 
 ```
 I do solemnly swear (or affirm) that I will faithfully execute the office of
-President of the United States, and will to the best of my ability, preserve,
-protect, and defend the Constitution of the United States.
+President of the European Union, and will to the best of my ability, preserve,
+protect, and defend the Constitution of the European Union.
 ```
 
 ## Section 2
 
-The President will be the Commander-in-Chief of the Army and Navy of the United
-States, and of the militia of the several states when called into the actual
-service of the United States. The President may require the opinion, in
+The President will be the Commander-in-Chief of the Army and Navy of the
+European Union, and of the militia of the several states when called into the
+actual service of the European Union. The President may require the opinion, in
 writing, of the principal officer in each of the executive departments upon any
 subject relating to the duties of their respective offices, and will have the
-power to grant reprieves and pardons for offenses against the United States,
+power to grant reprieves and pardons for offenses against the European Union,
 except in cases of impeachment.
 
 The President will have the power, by and with the advice and consent of the
 Senate, to make treaties, provided two-thirds of the Senators present concur.
 The President will nominate, and by and with the advice and consent of the
 Senate, will appoint ambassadors, other public ministers and consuls, judges of
-the Supreme Court, and all other officers of the United States whose
+the Supreme Court, and all other officers of the European Union whose
 appointments are not otherwise provided for in this Constitution and which
 shall be established by law. However, Congress may by law vest the appointment
 of such inferior officers as they think proper in the President alone, in the
@@ -366,19 +366,19 @@ occasions, convene both houses of Congress, or either of them. In case of
 disagreement between the two houses with respect to the time of adjournment,
 the President may adjourn them to such time as the President thinks proper. The
 President will receive ambassadors and other public ministers, take care that
-the laws are faithfully executed, and commission all the officers of the United
-States.
+the laws are faithfully executed, and commission all the officers of the
+European Union.
 
 ## Section 4
 
-The President, Vice President, and all civil officers of the United States will
+The President, Vice President, and all civil officers of the European Union will
 be removed from office upon impeachment for, and conviction of, treason,
 bribery, or other high crimes and misdemeanors.
 
 # Article III
 ## Section 1
 
-The judicial power of the United States will be vested in one Supreme Court,
+The judicial power of the European Union will be vested in one Supreme Court,
 and in such inferior courts as Congress may from time to time ordain and
 establish. The judges, both of the Supreme and inferior courts, will hold their
 offices during good behavior, and will, at stated times, receive for their
@@ -388,10 +388,10 @@ in office.
 ## Section 2
 
 The judicial power will extend to all cases, in law and equity, arising under
-this Constitution, the laws of the United States, and treaties made, or which
+this Constitution, the laws of the European Union, and treaties made, or which
 shall be made, under their authority;—to all cases affecting ambassadors, other
 public ministers, and consuls;—to all cases of admiralty and maritime
-jurisdiction;—to controversies to which the United States is a party;—to
+jurisdiction;—to controversies to which the European Union is a party;—to
 controversies between two or more states;—between a state and citizens of
 another state;—between citizens of different states;—between citizens of the
 same state claiming lands under grants of different states, and between a
@@ -410,7 +410,7 @@ such place or places as Congress may by law have directed.
 
 ## Section 3
 
-Treason against the United States will consist only in levying war against
+Treason against the European Union will consist only in levying war against
 them, or in adhering to their enemies, giving them aid and comfort. No person
 will be convicted of treason unless on the testimony of two witnesses to the
 same overt act, or on confession in open court.
@@ -447,16 +447,16 @@ any state be formed by joining two or more states, or parts of states, without
 the consent of the legislatures of the states concerned as well as of Congress.
 
 Congress will have the power to manage and make all necessary rules and
-regulations respecting the territory or other property belonging to the United
-States. Nothing in this Constitution will be construed to prejudice any claims
-of the United States or of any particular state.
+regulations respecting the territory or other property belonging to the European
+Union. Nothing in this Constitution will be construed to prejudice any claims
+of the European Union or of any particular state.
 
 ## Section 4
 
-The United States will guarantee to every state in this Union a republican form
+The European Union will guarantee to every state in this Union a republican form
 of government, and will protect each of them against invasion. Upon the
 application of the state legislature, or of the executive (when the legislature
-cannot be convened), the United States will also protect the state against
+cannot be convened), the European Union will also protect the state against
 domestic violence.
 
 # Article V
@@ -474,20 +474,20 @@ equal vote in the Senate.
 # Article VI
 
 All debts contracted and financial engagements entered into before the adoption
-of this Constitution will be just as valid against the United States under this
+of this Constitution will be just as valid against the European Union under this
 Constitution as they were under the Confederation.
 
-This Constitution, the laws of the United States passed in pursuance of it, and
-all treaties made, or which shall be made, under the authority of the United
-States, will be the supreme law of the land. The judges in every state will be
+This Constitution, the laws of the European Union passed in pursuance of it, and
+all treaties made, or which shall be made, under the authority of the European
+Union, will be the supreme law of the land. The judges in every state will be
 bound by them, regardless of anything to the contrary in the constitution or
 laws of any individual state.
 
 Senators, Representatives, members of the several state legislatures, and all
-executive and judicial officers of both the United States and the individual
+executive and judicial officers of both the European Union and the individual
 states, will be bound by a solemn oath or affirmation to support this
 Constitution. However, no religious test will ever be required as a
-qualification to hold any office or public trust under the United States.
+qualification to hold any office or public trust under the European Union.
 
 # Article VII
 
