@@ -242,6 +242,18 @@ The Congress will have the power:
   emolument, political donation, or gift of any kind from any foreign state,
   foreign government official, or foreign actor.
 
+* Congress shall make no law establishing an official religion, or restricting
+  the free exercise thereof. The freedom of speech, of the press, and the right
+  of the people to peacefully assemble and petition the government shall not be
+  violated.
+
+* The right of the citizens to be secure in their persons, houses, physical
+  papers, digital identities, electronic communications, and personal data
+  against unreasonable searches and seizures shall not be violated. No search
+  warrant or data access authorization shall issue except upon probable cause,
+  supported by a specific judicial order, and particularly describing the
+  physical place, digital assets, or persons to be searched or seized.
+
 ## Section 10
 
 * No state may enter into any treaty, alliance, or confederation; issue any new
@@ -410,6 +422,22 @@ such trial will be held in the state where the crimes were committed. However,
 when the crime is not committed within any state, the trial will be held at
 such place or places as Congress may by law have directed.
 
+In all criminal prosecutions, the accused shall enjoy the right to a speedy and
+public trial by an impartial court within the jurisdiction where the crime was
+committed. The accused has the right to be immediately informed of the nature
+and cause of the accusation, to confront opposing witnesses, to compel the
+attendance of witnesses in their favor, and to have the assistance of legal
+counsel for their defense.
+
+No person shall be subject to double jeopardy by being tried twice for the
+exact same offense under federal law. No person shall be compelled in any
+criminal case to testify against themselves, nor be deprived of life, liberty,
+or property without due process of law. Private property shall not be taken for
+public use without the prompt payment of fair market value compensation.
+
+Excessive bail shall not be required, nor excessive fines imposed, nor cruel,
+unusual, or degrading punishments inflicted.
+
 ## Section 3
 
 Treason against the European Union will consist only in levying war against
@@ -461,6 +489,14 @@ the sovereignty of the citizens, and will protect each of them against
 invasion.  Upon the application of the state legislature, or of the executive
 (when the legislature cannot be convened), the European Union will also protect
 the state against domestic violence.
+
+The powers not explicitly delegated to the European Union by the Constitution,
+nor prohibited by it to the states, are strictly reserved to the states
+respectively, or to the people.
+
+The inclusion of specific rights within this Constitution shall not be
+interpreted to deny, diminish, or disparage other inherent rights and liberties
+retained by the people.
 
 # Article V
 
