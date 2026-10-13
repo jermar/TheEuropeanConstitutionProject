@@ -238,8 +238,9 @@ The Congress will have the power:
 
 * No title of nobility will be granted by the European Union. Additionally, no
   person holding any office of profit or trust under the European Union may,
-  without the consent of Congress, accept any present, emolument, office, or
-  title of any kind from any king, prince, or foreign state.
+  without the consent of Congress, accept any financial compensation, corporate
+  emolument, political donation, or gift of any kind from any foreign state,
+  foreign government official, or foreign actor.
 
 ## Section 10
 
